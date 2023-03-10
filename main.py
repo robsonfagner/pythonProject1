@@ -1,1 +1,1 @@
-print('Robson')
+print(print('Robson'))
